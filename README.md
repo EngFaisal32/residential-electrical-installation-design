@@ -86,7 +86,9 @@ AutoCAD electrical drafting · Electrical MEP design fundamentals · Lighting an
 
 ## Portfolio
 
-[**View the public Engineering Portfolio on Notion**](https://guttural-galliform-d52.notion.site/Engineering-Portfolio-414920417b9d8034a902d6caa11becf1)
+[**View this project's Notion case study — Residential Electrical Installation Design**](https://guttural-galliform-d52.notion.site/Residential-Electrical-Installation-Design-417920417b9d80468d94c0dd4193ee3c)
+
+[View the full Engineering Portfolio on Notion](https://guttural-galliform-d52.notion.site/Engineering-Portfolio-414920417b9d8034a902d6caa11becf1)
 
 ## Engineering note
 
