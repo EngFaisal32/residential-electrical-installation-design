@@ -1,0 +1,9 @@
+Circuit,Description,Connected Load (W),Nominal Current (A),Cable,MCB Label,Protection Label
+C1,Lighting 1,36,0.16,3 x 2.5 mm2 Cu,B10 A,30 mA RCBO
+C2,Lighting 2,36,0.16,3 x 2.5 mm2 Cu,B10 A,30 mA RCBO
+C3,Bedroom sockets,1800,7.83,3 x 2.5 mm2 Cu,B16 A,30 mA RCBO
+C4,Living room sockets,1200,5.22,3 x 2.5 mm2 Cu,B16 A,30 mA RCBO
+C5,Kitchen worktop sockets,600,2.61,3 x 2.5 mm2 Cu,B16 A,30 mA RCBO
+C6,Refrigerator,300,1.30,3 x 2.5 mm2 Cu,B16 A,30 mA RCBO
+C7,Oven/Hob,3500,15.22,3 x 4 mm2 Cu,B20 A,30 mA RCBO
+C8,Extractor hood,200,0.87,3 x 2.5 mm2 Cu,B10 A,30 mA RCBO
